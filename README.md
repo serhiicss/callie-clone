@@ -27,3 +27,7 @@ We will create
 
 
 
+The page is broken down into 3 sections: 
+Header or Hero (description of the product)
+Main section (product features)
+Footer (instructions)
