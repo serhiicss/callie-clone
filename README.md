@@ -26,8 +26,8 @@ The page is broken down into 3 sections:
 ***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***
 
 ## Task 2:
-<br>
 **Header**
+<br>
 The header section has a  linear-gradient background https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient. Colors used for the background are #f85032 and #f0b55d.
 <br>
 It has an h1 title and a description.
