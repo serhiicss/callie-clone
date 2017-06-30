@@ -29,7 +29,7 @@ Please comment end tags:
 `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
 
 ## Task 1:
-~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***
+~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***~~
 
 ## Task 2:
 **Header**
@@ -37,6 +37,8 @@ Please comment end tags:
 The header section has a  linear-gradient background https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient. Colors used for the background are #f85032 and #f0b55d.
 <br>
 It has an h1 title and a description.
+<br>
+There is an image in the center that only visible on screen size 1300px or larger.
 <br>
 There is also an "Add to Slack" button at the bottom.
 <br>
