@@ -22,8 +22,13 @@ The page is broken down into 3 sections:
 2. Main section (product features)<br>
 3. Footer (instructions)<br>
 
+### Code style:
+Please use tab size 2 indent. You can set it in your code editor.
+<br>
+Please comment end tags: `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
+
 ## Task 1:
-***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***
+~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***
 
 ## Task 2:
 **Header**
