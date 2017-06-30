@@ -25,7 +25,10 @@ The page is broken down into 3 sections:
 ### Code style:
 Please use tab size 2 indent. You can set it in your code editor.
 <br>
-Please comment end tags: `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
+Please comment end tags: 
+```<div class="foobar">
+lorem ipsum
+</div> <!-- foobar -->```
 
 ## Task 1:
 ~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***
