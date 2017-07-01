@@ -49,3 +49,8 @@ There is also an "Add to Slack" button at the bottom.
 In this section we only have 3 features of the bot. Eeach feature has an icon that comes with bootstrap. Here is how to use them http://getbootstrap.com/components/#glyphicons-how-to-use
 <br>
 The features of the bot must be positioned in a row on large screens and in a column on mobile.
+
+## Task 4:
+**Footer**
+<br>
+Coming soon.
