@@ -1,0 +1,75 @@
+/*--------------------------------------*/
+/* Global styles */
+/*--------------------------------------*/
+
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 63px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+p {
+	font-size: 21px;
+}
+
+
+/*--------------------------------------*/
+/* Header styles */
+/*--------------------------------------*/
+header {
+	width: 100%;
+	padding: 100px 0 80px 0;
+	color: #fff;
+	background-image: linear-gradient(135deg, #f85032, #f0b55d);
+}
+
+header h3 {
+	padding-bottom: 24px;
+}
+
+header img {
+	width: 100%;
+	height: auto;
+	margin-bottom: 40px;
+}
+
+header button {
+	color: #333;
+	background-color: #fff;
+	font-weight: bold;
+	text-align: center;
+	padding: 8px 12px;
+	border: 1px solid #a7a2a2;
+	border-radius: 5px;
+}
+
+header button .fa-slack {
+	margin-right: 8px;
+}
+
+header button span {
+	font-weight: 800;
+}
+
+@media screen and (max-width: 1299px) {
+	header img {
+		display: none;
+	}
+}
+
+
+/*--------------------------------------*/
+/* Section styles */
+/*--------------------------------------*/
+
+
+/*--------------------------------------*/
+/* Footer styles */
+/*--------------------------------------*/
