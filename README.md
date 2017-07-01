@@ -32,7 +32,7 @@ Please comment end tags:
 ~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***~~
 
 ## Task 2:
-**Header**
+~~**Header**~~
 <br>
 The header section has a  linear-gradient background https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient. Colors used for the background are #f85032 and #f0b55d.
 <br>
@@ -42,3 +42,8 @@ There is an image in the center that only visible on screen size 1300px or large
 <br>
 There is also an "Add to Slack" button at the bottom.
 <br>
+
+## Task 3:
+**Section**
+<br>
+In this section we only have 3 features of the bot. Eeach feature has an icon that comes with bootstrap. Here is how to use them http://getbootstrap.com/components/#glyphicons-how-to-use
