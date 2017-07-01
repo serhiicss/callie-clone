@@ -11,6 +11,19 @@ h1 {
 	font-size: 63px;
 }
 
+#little_callie {
+	position: absolute;
+	height: 90px;
+	width: auto;
+	margin-left: 20px;
+	top: 70px;
+}
+
+.full-glyph {
+	font-size: 40px;
+}
+
+
 h3 {
 	font-size: 24px;
 }
@@ -59,9 +72,17 @@ header button span {
 }
 
 @media screen and (max-width: 1299px) {
-	header img {
+	#screenshot {
 		display: none;
 	}
+
+    #little_callie {
+        right: 0;
+        top: 0;
+        float: right;
+        position: relative;
+    }
+
 }
 
 
