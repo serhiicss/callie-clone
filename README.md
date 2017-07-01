@@ -29,7 +29,7 @@ Please comment end tags:
 `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
 
 ## Task 1:
-~~***Create index.html and styles.css files. Link styles.css and bootstrap to index.html.***~~
+~~**Create index.html and styles.css files. Link styles.css and bootstrap to index.html.**~~
 
 ## Task 2:
 ~~**Header**~~
