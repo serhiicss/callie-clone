@@ -28,10 +28,10 @@ Please use tab size 2 indent. You can set it in your code editor.
 Please comment end tags: 
 `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
 
-## Task 1:
-~~**Create index.html and styles.css files. Link styles.css and bootstrap to index.html.**~~
+~~## Task 1:~~ Done
+**Create index.html and styles.css files. Link styles.css and bootstrap to index.html.**
 
-## Task 2:
+~~## Task 2:~~ Done
 ~~**Header**~~
 <br>
 The header section has a  linear-gradient background https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient. Colors used for the background are #f85032 and #f0b55d.
@@ -53,4 +53,5 @@ The features of the bot must be positioned in a row on large screens and in a co
 ## Task 4:
 **Footer**
 <br>
-Coming soon.
+Footer consists of 2 items: a text in a box and an ordered list of instructions. The background uses linear-gradient just like the header.
+Tips: for the text in a box, use `max-width` to control box width
