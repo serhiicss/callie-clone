@@ -28,10 +28,10 @@ Please use tab size 2 indent. You can set it in your code editor.
 Please comment end tags: 
 `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
 
-~~## Task 1:~~ Done
+~~## Task 1:##~~ Done
 **Create index.html and styles.css files. Link styles.css and bootstrap to index.html.**
 
-~~## Task 2:~~ Done
+~~## Task 2:##~~ Done
 ~~**Header**~~
 <br>
 The header section has a  linear-gradient background https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient. Colors used for the background are #f85032 and #f0b55d.
