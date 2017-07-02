@@ -55,4 +55,4 @@ The features of the bot must be positioned in a row on large screens and in a co
 <br>
 Footer consists of 2 items: a text in a box and an ordered list of instructions. The background uses linear-gradient just like the header.
 <br>
-**Tips:** for the text in a box, use `max-width` to control box width. Colors for the background are #000dff and #ba008c.
+**Tips:**  To control text box width use `max-width` . Colors for the background are #000dff and #ba008c.
