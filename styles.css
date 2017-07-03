@@ -124,7 +124,24 @@ footer {
 }
 
 #fun {
-border: 2px solid aliceblue;
-padding: 50px;
-max-width: 235px;
+	border: 2px solid aliceblue;
+  padding: 50px;
+  max-width: 235px;
+}
+
+#install {
+	color: cyan;
+}
+
+footer ul {
+margin-top: 50px;
+}
+
+footer ul li {
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+footer a {
+	color: aliceblue;
 }
