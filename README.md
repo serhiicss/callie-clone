@@ -25,7 +25,7 @@ The page is broken down into 3 sections:
 ### Code style:
 Please use tab size 2 indent. You can set it in your code editor.
 <br>
-Please comment end tags: 
+Please comment end tags:
 `<div class="foobar">lorem ipsum</div> <!-- foobar -->`
 
 ## ~~Task 1:~~
@@ -46,7 +46,7 @@ There is also an "Add to Slack" button at the bottom.
 ## Task 3:
 **Section**
 <br>
-In this section we only have 3 features of the bot. Eeach feature has an icon that comes with bootstrap. Here is how to use them http://getbootstrap.com/components/#glyphicons-how-to-use
+In this section we only have 3 features of the bot. Each feature has an icon that comes with bootstrap. Here is how to use them http://getbootstrap.com/components/#glyphicons-how-to-use
 <br>
 The features of the bot must be positioned in a row on large screens and in a column on mobile.
 
