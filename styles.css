@@ -101,6 +101,10 @@ header button span {
         position: relative;
     }
 
+	#fun {
+		max-width: 100%;
+	}
+
 }
 
 
@@ -112,3 +116,15 @@ header button span {
 /*--------------------------------------*/
 /* Footer styles */
 /*--------------------------------------*/
+footer {
+	width: 100%;
+	padding: 100px 0 80px 0;
+	color: #fff;
+	background-image: linear-gradient(135deg, blue, purple);
+}
+
+#fun {
+border: 2px solid aliceblue;
+padding: 50px;
+max-width: 235px;
+}
