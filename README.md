@@ -43,16 +43,18 @@ There is an image in the center that only visible on screen size 1300px or large
 There is also an "Add to Slack" button at the bottom.
 <br>
 
-## Task 3:
+## ~~Task 3:~~
 **Section**
 <br>
 In this section we only have 3 features of the bot. Each feature has an icon that comes with bootstrap. Here is how to use them http://getbootstrap.com/components/#glyphicons-how-to-use
 <br>
 The features of the bot must be positioned in a row on large screens and in a column on mobile.
 
-## Task 4:
+## ~~Task 4:~~
 **Footer**
 <br>
 Footer consists of 2 items: a text in a box and an ordered list of instructions. The background uses linear-gradient just like the header.
 <br>
 **Tips:**  To control text box width use `max-width` . Colors for the background are #000dff and #ba008c.
+
+## Project completed!
