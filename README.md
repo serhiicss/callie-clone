@@ -13,7 +13,7 @@ A Chingu build-to-learn project of cloning a Callie bot page
 <br>
 ~~2. Add contributors to the repo~~
 <br>
-3. Start coding
+~~3. Start coding~~
 
 ### Coding:
 The page is broken down into 3 sections:
