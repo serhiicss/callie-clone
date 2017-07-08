@@ -58,3 +58,9 @@ Footer consists of 2 items: a text in a box and an ordered list of instructions.
 **Tips:**  To control text box width use `max-width` . Colors for the background are #000dff and #ba008c.
 
 ## Project completed!
+
+```
+var is_array = function(value) {
+    return Array.isArray(value);
+}
+```
